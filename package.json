@@ -1,0 +1,14 @@
+{
+  "name": "leadmarkt",
+  "version": "1.0.0",
+  "description": "data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jophsam",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^8.9.2"
+  }
+}
